@@ -537,6 +537,9 @@ a {
 }
 
 @media screen and (min-width: 1213px) {
+  .q-k-why {
+    background: linear-gradient(180deg, #4150c8 0%, #202762 130.66%);
+  }
   .q-k-why-container {
     width: 1440px;
     height: 822px;
